@@ -1,0 +1,449 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5F0E190115D3EF6A002674BF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F0E190015D3EF6A002674BF /* UIKit.framework */; };
+		5F0E190315D3EF6A002674BF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F0E190215D3EF6A002674BF /* Foundation.framework */; };
+		5F0E190515D3EF6A002674BF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F0E190415D3EF6A002674BF /* CoreGraphics.framework */; };
+		5F0E190B15D3EF6A002674BF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5F0E190915D3EF6A002674BF /* InfoPlist.strings */; };
+		5F0E190D15D3EF6A002674BF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F0E190C15D3EF6A002674BF /* main.m */; };
+		5F0E191115D3EF6A002674BF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F0E191015D3EF6A002674BF /* AppDelegate.m */; };
+		5F0E191415D3EF6A002674BF /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F0E191215D3EF6A002674BF /* MainStoryboard.storyboard */; };
+		5F0E191715D3EF6A002674BF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F0E191615D3EF6A002674BF /* ViewController.m */; };
+		5F0E191F15D3EF6A002674BF /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F0E191E15D3EF6A002674BF /* SenTestingKit.framework */; };
+		5F0E192015D3EF6A002674BF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F0E190015D3EF6A002674BF /* UIKit.framework */; };
+		5F0E192115D3EF6A002674BF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F0E190215D3EF6A002674BF /* Foundation.framework */; };
+		5F0E192915D3EF6A002674BF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5F0E192715D3EF6A002674BF /* InfoPlist.strings */; };
+		5F0E192C15D3EF6A002674BF /* SURVIVAl_ISLANDTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F0E192B15D3EF6A002674BF /* SURVIVAl_ISLANDTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		5F0E192215D3EF6A002674BF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5F0E18F315D3EF6A002674BF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5F0E18FB15D3EF6A002674BF;
+			remoteInfo = "SURVIVAl ISLAND";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		5F0E18FC15D3EF6A002674BF /* SURVIVAl ISLAND.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SURVIVAl ISLAND.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F0E190015D3EF6A002674BF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		5F0E190215D3EF6A002674BF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		5F0E190415D3EF6A002674BF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		5F0E190815D3EF6A002674BF /* SURVIVAl ISLAND-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SURVIVAl ISLAND-Info.plist"; sourceTree = "<group>"; };
+		5F0E190A15D3EF6A002674BF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		5F0E190C15D3EF6A002674BF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5F0E190E15D3EF6A002674BF /* SURVIVAl ISLAND-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SURVIVAl ISLAND-Prefix.pch"; sourceTree = "<group>"; };
+		5F0E190F15D3EF6A002674BF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		5F0E191015D3EF6A002674BF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		5F0E191315D3EF6A002674BF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		5F0E191515D3EF6A002674BF /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		5F0E191615D3EF6A002674BF /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		5F0E191D15D3EF6A002674BF /* SURVIVAl ISLANDTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SURVIVAl ISLANDTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F0E191E15D3EF6A002674BF /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		5F0E192615D3EF6A002674BF /* SURVIVAl ISLANDTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SURVIVAl ISLANDTests-Info.plist"; sourceTree = "<group>"; };
+		5F0E192815D3EF6A002674BF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		5F0E192A15D3EF6A002674BF /* SURVIVAl_ISLANDTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SURVIVAl_ISLANDTests.h; sourceTree = "<group>"; };
+		5F0E192B15D3EF6A002674BF /* SURVIVAl_ISLANDTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SURVIVAl_ISLANDTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5F0E18F915D3EF6A002674BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F0E190115D3EF6A002674BF /* UIKit.framework in Frameworks */,
+				5F0E190315D3EF6A002674BF /* Foundation.framework in Frameworks */,
+				5F0E190515D3EF6A002674BF /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5F0E191915D3EF6A002674BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F0E191F15D3EF6A002674BF /* SenTestingKit.framework in Frameworks */,
+				5F0E192015D3EF6A002674BF /* UIKit.framework in Frameworks */,
+				5F0E192115D3EF6A002674BF /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5F0E18F115D3EF6A002674BF = {
+			isa = PBXGroup;
+			children = (
+				5F0E190615D3EF6A002674BF /* SURVIVAl ISLAND */,
+				5F0E192415D3EF6A002674BF /* SURVIVAl ISLANDTests */,
+				5F0E18FF15D3EF6A002674BF /* Frameworks */,
+				5F0E18FD15D3EF6A002674BF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5F0E18FD15D3EF6A002674BF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5F0E18FC15D3EF6A002674BF /* SURVIVAl ISLAND.app */,
+				5F0E191D15D3EF6A002674BF /* SURVIVAl ISLANDTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5F0E18FF15D3EF6A002674BF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5F0E190015D3EF6A002674BF /* UIKit.framework */,
+				5F0E190215D3EF6A002674BF /* Foundation.framework */,
+				5F0E190415D3EF6A002674BF /* CoreGraphics.framework */,
+				5F0E191E15D3EF6A002674BF /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5F0E190615D3EF6A002674BF /* SURVIVAl ISLAND */ = {
+			isa = PBXGroup;
+			children = (
+				5F0E190F15D3EF6A002674BF /* AppDelegate.h */,
+				5F0E191015D3EF6A002674BF /* AppDelegate.m */,
+				5F0E191215D3EF6A002674BF /* MainStoryboard.storyboard */,
+				5F0E191515D3EF6A002674BF /* ViewController.h */,
+				5F0E191615D3EF6A002674BF /* ViewController.m */,
+				5F0E190715D3EF6A002674BF /* Supporting Files */,
+			);
+			path = "SURVIVAl ISLAND";
+			sourceTree = "<group>";
+		};
+		5F0E190715D3EF6A002674BF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5F0E190815D3EF6A002674BF /* SURVIVAl ISLAND-Info.plist */,
+				5F0E190915D3EF6A002674BF /* InfoPlist.strings */,
+				5F0E190C15D3EF6A002674BF /* main.m */,
+				5F0E190E15D3EF6A002674BF /* SURVIVAl ISLAND-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5F0E192415D3EF6A002674BF /* SURVIVAl ISLANDTests */ = {
+			isa = PBXGroup;
+			children = (
+				5F0E192A15D3EF6A002674BF /* SURVIVAl_ISLANDTests.h */,
+				5F0E192B15D3EF6A002674BF /* SURVIVAl_ISLANDTests.m */,
+				5F0E192515D3EF6A002674BF /* Supporting Files */,
+			);
+			path = "SURVIVAl ISLANDTests";
+			sourceTree = "<group>";
+		};
+		5F0E192515D3EF6A002674BF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5F0E192615D3EF6A002674BF /* SURVIVAl ISLANDTests-Info.plist */,
+				5F0E192715D3EF6A002674BF /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5F0E18FB15D3EF6A002674BF /* SURVIVAl ISLAND */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5F0E192F15D3EF6A002674BF /* Build configuration list for PBXNativeTarget "SURVIVAl ISLAND" */;
+			buildPhases = (
+				5F0E18F815D3EF6A002674BF /* Sources */,
+				5F0E18F915D3EF6A002674BF /* Frameworks */,
+				5F0E18FA15D3EF6A002674BF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "SURVIVAl ISLAND";
+			productName = "SURVIVAl ISLAND";
+			productReference = 5F0E18FC15D3EF6A002674BF /* SURVIVAl ISLAND.app */;
+			productType = "com.apple.product-type.application";
+		};
+		5F0E191C15D3EF6A002674BF /* SURVIVAl ISLANDTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5F0E193215D3EF6A002674BF /* Build configuration list for PBXNativeTarget "SURVIVAl ISLANDTests" */;
+			buildPhases = (
+				5F0E191815D3EF6A002674BF /* Sources */,
+				5F0E191915D3EF6A002674BF /* Frameworks */,
+				5F0E191A15D3EF6A002674BF /* Resources */,
+				5F0E191B15D3EF6A002674BF /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5F0E192315D3EF6A002674BF /* PBXTargetDependency */,
+			);
+			name = "SURVIVAl ISLANDTests";
+			productName = "SURVIVAl ISLANDTests";
+			productReference = 5F0E191D15D3EF6A002674BF /* SURVIVAl ISLANDTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5F0E18F315D3EF6A002674BF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0440;
+				ORGANIZATIONNAME = DMA;
+			};
+			buildConfigurationList = 5F0E18F615D3EF6A002674BF /* Build configuration list for PBXProject "SURVIVAl ISLAND" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5F0E18F115D3EF6A002674BF;
+			productRefGroup = 5F0E18FD15D3EF6A002674BF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5F0E18FB15D3EF6A002674BF /* SURVIVAl ISLAND */,
+				5F0E191C15D3EF6A002674BF /* SURVIVAl ISLANDTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5F0E18FA15D3EF6A002674BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F0E190B15D3EF6A002674BF /* InfoPlist.strings in Resources */,
+				5F0E191415D3EF6A002674BF /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5F0E191A15D3EF6A002674BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F0E192915D3EF6A002674BF /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		5F0E191B15D3EF6A002674BF /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5F0E18F815D3EF6A002674BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F0E190D15D3EF6A002674BF /* main.m in Sources */,
+				5F0E191115D3EF6A002674BF /* AppDelegate.m in Sources */,
+				5F0E191715D3EF6A002674BF /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5F0E191815D3EF6A002674BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F0E192C15D3EF6A002674BF /* SURVIVAl_ISLANDTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5F0E192315D3EF6A002674BF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5F0E18FB15D3EF6A002674BF /* SURVIVAl ISLAND */;
+			targetProxy = 5F0E192215D3EF6A002674BF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		5F0E190915D3EF6A002674BF /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5F0E190A15D3EF6A002674BF /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		5F0E191215D3EF6A002674BF /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5F0E191315D3EF6A002674BF /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+		5F0E192715D3EF6A002674BF /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5F0E192815D3EF6A002674BF /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5F0E192D15D3EF6A002674BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		5F0E192E15D3EF6A002674BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5F0E193015D3EF6A002674BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SURVIVAl ISLAND/SURVIVAl ISLAND-Prefix.pch";
+				INFOPLIST_FILE = "SURVIVAl ISLAND/SURVIVAl ISLAND-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		5F0E193115D3EF6A002674BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SURVIVAl ISLAND/SURVIVAl ISLAND-Prefix.pch";
+				INFOPLIST_FILE = "SURVIVAl ISLAND/SURVIVAl ISLAND-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		5F0E193315D3EF6A002674BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/SURVIVAl ISLAND.app/SURVIVAl ISLAND";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SURVIVAl ISLAND/SURVIVAl ISLAND-Prefix.pch";
+				INFOPLIST_FILE = "SURVIVAl ISLANDTests/SURVIVAl ISLANDTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		5F0E193415D3EF6A002674BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/SURVIVAl ISLAND.app/SURVIVAl ISLAND";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SURVIVAl ISLAND/SURVIVAl ISLAND-Prefix.pch";
+				INFOPLIST_FILE = "SURVIVAl ISLANDTests/SURVIVAl ISLANDTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5F0E18F615D3EF6A002674BF /* Build configuration list for PBXProject "SURVIVAl ISLAND" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5F0E192D15D3EF6A002674BF /* Debug */,
+				5F0E192E15D3EF6A002674BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5F0E192F15D3EF6A002674BF /* Build configuration list for PBXNativeTarget "SURVIVAl ISLAND" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5F0E193015D3EF6A002674BF /* Debug */,
+				5F0E193115D3EF6A002674BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		5F0E193215D3EF6A002674BF /* Build configuration list for PBXNativeTarget "SURVIVAl ISLANDTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5F0E193315D3EF6A002674BF /* Debug */,
+				5F0E193415D3EF6A002674BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5F0E18F315D3EF6A002674BF /* Project object */;
+}
