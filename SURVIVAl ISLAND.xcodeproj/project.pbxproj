@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F0874C315D456C500174C9D /* Untitled-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F0874C215D456C500174C9D /* Untitled-1.png */; };
 		5F0E190115D3EF6A002674BF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F0E190015D3EF6A002674BF /* UIKit.framework */; };
 		5F0E190315D3EF6A002674BF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F0E190215D3EF6A002674BF /* Foundation.framework */; };
 		5F0E190515D3EF6A002674BF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F0E190415D3EF6A002674BF /* CoreGraphics.framework */; };
@@ -20,6 +21,19 @@
 		5F0E192115D3EF6A002674BF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F0E190215D3EF6A002674BF /* Foundation.framework */; };
 		5F0E192915D3EF6A002674BF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5F0E192715D3EF6A002674BF /* InfoPlist.strings */; };
 		5F0E192C15D3EF6A002674BF /* SURVIVAl_ISLANDTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F0E192B15D3EF6A002674BF /* SURVIVAl_ISLANDTests.m */; };
+		5F153A9A15D5469100C1781A /* blank.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F153A9415D5469100C1781A /* blank.png */; };
+		5F153A9B15D5469100C1781A /* blue-squiggles-michelle-brighton-a5671.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5F153A9515D5469100C1781A /* blue-squiggles-michelle-brighton-a5671.jpg */; };
+		5F153A9C15D5469100C1781A /* IPHONE SCREEN.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F153A9615D5469100C1781A /* IPHONE SCREEN.png */; };
+		5F153A9D15D5469100C1781A /* Screen Shot 2012-08-08 at 5.11.36 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F153A9715D5469100C1781A /* Screen Shot 2012-08-08 at 5.11.36 PM.png */; };
+		5F153A9E15D5469100C1781A /* ship.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F153A9815D5469100C1781A /* ship.png */; };
+		5F153A9F15D5469100C1781A /* ship2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F153A9915D5469100C1781A /* ship2.png */; };
+		5F153AB315D5511800C1781A /* [Dubstep] The Mavrik - When Da Bass Goes Boom.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5F153AB215D5511800C1781A /* [Dubstep] The Mavrik - When Da Bass Goes Boom.mp3 */; };
+		5F1C66AD15D55F8C0086D922 /* score2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F1C66AB15D55F8C0086D922 /* score2.png */; };
+		5F1C66AE15D55F8C0086D922 /* score5.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F1C66AC15D55F8C0086D922 /* score5.png */; };
+		5F1C66B115D55FC00086D922 /* heath500.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F1C66AF15D55FC00086D922 /* heath500.png */; };
+		5F1C66B215D55FC00086D922 /* heath1000.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F1C66B015D55FC00086D922 /* heath1000.png */; };
+		5F1C66B415D560520086D922 /* score10.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F1C66B315D560510086D922 /* score10.png */; };
+		5F7C699115D4566F00E5C977 /* cover2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F7C699015D4566F00E5C977 /* cover2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,6 +47,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5F0874C215D456C500174C9D /* Untitled-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Untitled-1.png"; sourceTree = "<group>"; };
 		5F0E18FC15D3EF6A002674BF /* SURVIVAl ISLAND.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SURVIVAl ISLAND.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F0E190015D3EF6A002674BF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5F0E190215D3EF6A002674BF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -52,6 +67,19 @@
 		5F0E192815D3EF6A002674BF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5F0E192A15D3EF6A002674BF /* SURVIVAl_ISLANDTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SURVIVAl_ISLANDTests.h; sourceTree = "<group>"; };
 		5F0E192B15D3EF6A002674BF /* SURVIVAl_ISLANDTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SURVIVAl_ISLANDTests.m; sourceTree = "<group>"; };
+		5F153A9415D5469100C1781A /* blank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = blank.png; path = ../blank.png; sourceTree = "<group>"; };
+		5F153A9515D5469100C1781A /* blue-squiggles-michelle-brighton-a5671.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "blue-squiggles-michelle-brighton-a5671.jpg"; path = "../blue-squiggles-michelle-brighton-a5671.jpg"; sourceTree = "<group>"; };
+		5F153A9615D5469100C1781A /* IPHONE SCREEN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "IPHONE SCREEN.png"; path = "../IPHONE SCREEN.png"; sourceTree = "<group>"; };
+		5F153A9715D5469100C1781A /* Screen Shot 2012-08-08 at 5.11.36 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2012-08-08 at 5.11.36 PM.png"; path = "../Screen Shot 2012-08-08 at 5.11.36 PM.png"; sourceTree = "<group>"; };
+		5F153A9815D5469100C1781A /* ship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ship.png; path = ../ship.png; sourceTree = "<group>"; };
+		5F153A9915D5469100C1781A /* ship2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ship2.png; path = ../ship2.png; sourceTree = "<group>"; };
+		5F153AB215D5511800C1781A /* [Dubstep] The Mavrik - When Da Bass Goes Boom.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "[Dubstep] The Mavrik - When Da Bass Goes Boom.mp3"; path = "../../../[Dubstep] The Mavrik - When Da Bass Goes Boom.mp3"; sourceTree = "<group>"; };
+		5F1C66AB15D55F8C0086D922 /* score2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = score2.png; sourceTree = SOURCE_ROOT; };
+		5F1C66AC15D55F8C0086D922 /* score5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = score5.png; sourceTree = SOURCE_ROOT; };
+		5F1C66AF15D55FC00086D922 /* heath500.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = heath500.png; sourceTree = SOURCE_ROOT; };
+		5F1C66B015D55FC00086D922 /* heath1000.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = heath1000.png; sourceTree = SOURCE_ROOT; };
+		5F1C66B315D560510086D922 /* score10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = score10.png; sourceTree = SOURCE_ROOT; };
+		5F7C699015D4566F00E5C977 /* cover2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +109,8 @@
 		5F0E18F115D3EF6A002674BF = {
 			isa = PBXGroup;
 			children = (
+				5F0874C215D456C500174C9D /* Untitled-1.png */,
+				5F7C699015D4566F00E5C977 /* cover2.png */,
 				5F0E190615D3EF6A002674BF /* SURVIVAl ISLAND */,
 				5F0E192415D3EF6A002674BF /* SURVIVAl ISLANDTests */,
 				5F0E18FF15D3EF6A002674BF /* Frameworks */,
@@ -116,18 +146,31 @@
 				5F0E191215D3EF6A002674BF /* MainStoryboard.storyboard */,
 				5F0E191515D3EF6A002674BF /* ViewController.h */,
 				5F0E191615D3EF6A002674BF /* ViewController.m */,
+				5F1C66AB15D55F8C0086D922 /* score2.png */,
+				5F1C66AC15D55F8C0086D922 /* score5.png */,
+				5F1C66AF15D55FC00086D922 /* heath500.png */,
+				5F1C66B015D55FC00086D922 /* heath1000.png */,
 				5F0E190715D3EF6A002674BF /* Supporting Files */,
 			);
 			path = "SURVIVAl ISLAND";
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		5F0E190715D3EF6A002674BF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				5F0E190815D3EF6A002674BF /* SURVIVAl ISLAND-Info.plist */,
+				5F1C66B315D560510086D922 /* score10.png */,
 				5F0E190915D3EF6A002674BF /* InfoPlist.strings */,
 				5F0E190C15D3EF6A002674BF /* main.m */,
 				5F0E190E15D3EF6A002674BF /* SURVIVAl ISLAND-Prefix.pch */,
+				5F153A9415D5469100C1781A /* blank.png */,
+				5F153AB215D5511800C1781A /* [Dubstep] The Mavrik - When Da Bass Goes Boom.mp3 */,
+				5F153A9515D5469100C1781A /* blue-squiggles-michelle-brighton-a5671.jpg */,
+				5F153A9615D5469100C1781A /* IPHONE SCREEN.png */,
+				5F153A9715D5469100C1781A /* Screen Shot 2012-08-08 at 5.11.36 PM.png */,
+				5F153A9815D5469100C1781A /* ship.png */,
+				5F153A9915D5469100C1781A /* ship2.png */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -224,6 +267,20 @@
 			files = (
 				5F0E190B15D3EF6A002674BF /* InfoPlist.strings in Resources */,
 				5F0E191415D3EF6A002674BF /* MainStoryboard.storyboard in Resources */,
+				5F7C699115D4566F00E5C977 /* cover2.png in Resources */,
+				5F0874C315D456C500174C9D /* Untitled-1.png in Resources */,
+				5F153A9A15D5469100C1781A /* blank.png in Resources */,
+				5F153A9B15D5469100C1781A /* blue-squiggles-michelle-brighton-a5671.jpg in Resources */,
+				5F153A9C15D5469100C1781A /* IPHONE SCREEN.png in Resources */,
+				5F153A9D15D5469100C1781A /* Screen Shot 2012-08-08 at 5.11.36 PM.png in Resources */,
+				5F153A9E15D5469100C1781A /* ship.png in Resources */,
+				5F153A9F15D5469100C1781A /* ship2.png in Resources */,
+				5F153AB315D5511800C1781A /* [Dubstep] The Mavrik - When Da Bass Goes Boom.mp3 in Resources */,
+				5F1C66AD15D55F8C0086D922 /* score2.png in Resources */,
+				5F1C66AE15D55F8C0086D922 /* score5.png in Resources */,
+				5F1C66B115D55FC00086D922 /* heath500.png in Resources */,
+				5F1C66B215D55FC00086D922 /* heath1000.png in Resources */,
+				5F1C66B415D560520086D922 /* score10.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -434,6 +491,7 @@
 				5F0E193115D3EF6A002674BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5F0E193215D3EF6A002674BF /* Build configuration list for PBXNativeTarget "SURVIVAl ISLANDTests" */ = {
 			isa = XCConfigurationList;
@@ -442,6 +500,7 @@
 				5F0E193415D3EF6A002674BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
